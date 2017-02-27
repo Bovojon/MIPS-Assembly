@@ -6,8 +6,14 @@
         # Data Section
         .data
 
+
         # Text Section
         .text
+
+        .globl my_main
+my_main:
+        # Main code goes here
+
 
         # Exit the program
         li        $v0, 10
