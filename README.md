@@ -1,1 +1,1 @@
-# mips-qtspim-utils
+# Working with MIPS in QTSpim

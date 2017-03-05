@@ -1,6 +1,6 @@
 # Demo program: Demonstration of branching using the bne command.
 # Filename: branch.s
-# Video Lecture MIPS #14: And, Or, Nor
+# Video Lecture MIPS #15: Branch Not Equal
 # Note: Using register $zero as a comparison for a loop is more efficient
 #
 #
