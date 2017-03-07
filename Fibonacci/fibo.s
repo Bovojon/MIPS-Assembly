@@ -30,8 +30,6 @@
 ############### Data Segment ###############
         .data
 prompt:               .asciiz         "Enter an integer number (>=0): "
-printF:               .asciiz         "F"
-printEqual:           .asciiz         " = "
 CR:                   .asciiz         "\n"
 openParan:            .asciiz         "F("
 closeParan:           .asciiz         ") = "
